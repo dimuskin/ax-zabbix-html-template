@@ -2,7 +2,8 @@
 Default Zabbix trigger email alerts is not too attractive. Some tips on how to fix this and do something similar to it:
 
 Alert email:
-![Alert email](screenshots/alert.png?raw=true "Alert email")
+<kbd><img src="screenshots/alert.png?raw=true" /></kbd>
+
 
 Recovery email:
-![Recovery email](screenshots/recovery.png?raw=true "Recovery email")
+<kbd><img src="screenshots/recovery.png?raw=true" /></kbd>
