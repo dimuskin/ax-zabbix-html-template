@@ -13,7 +13,7 @@ Recovery email:
 
 1. Install sendEmail
 ```
-$ sudo apt-get intall sendemail
+$ sudo apt-get install sendemail
 ```
 
 2. Find AlertScriptsPath in Zabbix configuration file:
